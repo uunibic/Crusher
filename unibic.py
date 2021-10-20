@@ -5,7 +5,6 @@ import random
 import re
 
 #global params
-api_key="AIzaSyBFf96QRIGzc9SH-IwrQTNc5CO8mr_SyPc"
 url=''
 host=''
 headers_useragents=[]
